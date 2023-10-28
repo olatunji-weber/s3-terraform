@@ -9,4 +9,10 @@ This is an Azubi Todo Project to use Terraform to provision S3 buckets in the "u
     * DataSummit
     * CodeCarnival
 
+### Snapshot of Buckets Created in AWS Cloud Console
+![Created Buckets Snapshot](/createdbuckets-snapshot.png)
+
+### Snapshot of Successful Creation of Buckets at the Powershell Prompt
+![Successful Creation of Buckets Snapshot](/createdbucketssucces-snapshot.png)
+
 
